@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Obsidian
+.obsidian/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Operating systems
+.DS_Store
+Thumbs.db
